@@ -1,0 +1,6 @@
+.GridContainer {
+    padding: 30px;
+    display: grid;
+    gap: 30px;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 0.75fr));
+}
